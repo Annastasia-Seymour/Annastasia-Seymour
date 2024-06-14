@@ -1,4 +1,4 @@
-## Hi there 👋, I am Annastasia Seymour <img src="https://1drv.ms/i/s!AimHkVaCc8aGgutb3KQCFXcch7ZB5w?e=0bbqps" width="30px"!
+## Hi there 👋, I am Annastasia Seymour <img src="https://1drv.ms/i/s!AimHkVaCc8aGgutb3KQCFXcch7ZB5w?e=0bbqps" width="30px"> ,!
 
 <!--
 **Annastasia-Seymour/Annastasia-Seymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
