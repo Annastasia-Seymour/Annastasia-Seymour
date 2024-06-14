@@ -1,5 +1,4 @@
-## Hi there <img src="![image](https://github.com/Annastasia-Seymour/Annastasia-Seymour/assets/169141004/b79d4fa7-744d-4ddc-a673-091c2520a2ae)" width="30px">
-, I am Annastasia Seymour
+## Hi there <div class="tenor-gif-embed" data-postid="27159161" data-share-method="host" data-aspect-ratio="1.0356" data-width="100%"><a href="https://tenor.com/view/gif-de-sauda%C3%A7%C3%A3o-gif-27159161">Gif De Saudação Sticker</a>from <a href="https://tenor.com/search/gif+de+sauda%C3%A7%C3%A3o-stickers">Gif De Saudação Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I am Annastasia Seymour
 
 <!--
 **Annastasia-Seymour/Annastasia-Seymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
