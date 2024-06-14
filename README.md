@@ -8,9 +8,24 @@
 
 Welcome to my GitHub profile! I'm a dynamic and passionate tech enthusiast with a Higher Certificate in Cloud Computing. Currently, I'm diving deeper into the world of code at CodeSpace Academy, where I'm undertaking an exciting course in Software Development. My journey in tech is fueled by a love for learning and a desire to create impactful, cutting-edge solutions.
 
+🧰
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg " alt="CSS Logo" width="50" height="50">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="Codepen Logo" width="50" height="50">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="50" height="50">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amaszon Web Services" width="50" height="50">
 
-### About Me
+### About Me😁
 
 🔭 I’m currently working on various web development projects, constantly pushing the boundaries of what's possible on the web.
 🌱 As I expand my skills at CodeSpace Academy, I'm mastering advanced JavaScript and React, and loving every minute of it!
