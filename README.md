@@ -1,9 +1,7 @@
-## Hi , I am Annastasia Seymour!
+## 👋Hi , I am Annastasia Seymour😉!
 <img 
   src="[https://1drv.ms/i/s!AimHkVaCc8aGgutb3KQCFXcch7ZB5w?e=0bbqps](https://s4.ezgif.com/tmp/ezgif-4-81d0ed033e.gif)" width="30px">
-
-
-![GitHub followers](https://img.shields.io/github/followers/Annastasia-Seymour)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Annastasia--Seymour-blue?logo=github)](https://github.com/Annastasia-Seymour)
 
 
 Welcome to my GitHub profile! I'm a dynamic and passionate tech enthusiast with a Higher Certificate in Cloud Computing. Currently, I'm diving deeper into the world of code at CodeSpace Academy, where I'm undertaking an exciting course in Software Development. My journey in tech is fueled by a love for learning and a desire to create impactful, cutting-edge solutions.
