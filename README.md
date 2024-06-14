@@ -1,4 +1,5 @@
-## Hi there 👋, I am Annastasia Seymour
+## Hi there <img src="![image](https://github.com/Annastasia-Seymour/Annastasia-Seymour/assets/169141004/b79d4fa7-744d-4ddc-a673-091c2520a2ae)" width="30px">
+, I am Annastasia Seymour
 
 <!--
 **Annastasia-Seymour/Annastasia-Seymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
